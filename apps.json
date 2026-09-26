@@ -1,0 +1,31 @@
+{
+  "name": "Rehabit",
+  "subtitle": "Rachas y constancia de tus recordatorios",
+  "description": "Fuente de AltStore para instalar Rehabit.",
+  "iconURL": "https://raw.githubusercontent.com/rafandco/rehabit-altstore/main/icon.png",
+  "tintColor": "#5E5CE6",
+  "apps": [
+    {
+      "name": "Rehabit",
+      "bundleIdentifier": "es.rafandco.Rehabit",
+      "developerName": "rafandco",
+      "subtitle": "Rachas y constancia de tus recordatorios",
+      "localizedDescription": "Lee tus recordatorios recurrentes de la app Recordatorios y muestra rachas, constancia y estadísticas de cada hábito.",
+      "iconURL": "https://raw.githubusercontent.com/rafandco/rehabit-altstore/main/icon.png",
+      "tintColor": "#5E5CE6",
+      "category": "lifestyle",
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-09-26T11:44:45Z",
+          "downloadURL": "https://github.com/rafandco/rehabit-altstore/releases/download/v1.0-1/Rehabit.ipa",
+          "size": 6170913,
+          "minOSVersion": "26.5",
+          "localizedDescription": "Actualización de Rehabit."
+        }
+      ]
+    }
+  ],
+  "news": []
+}
